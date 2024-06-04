@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InTheDetails</string>
+    <string name="item_template">Option %1$s</string>
+    <string name="cat_text">Schrödinger\'s best friend…?</string>
+    <string name="dog_text">Everyone\'s best friend</string>
+    <string name="random_dog">Random dog</string>
+    <string name="random_cat">Random cat</string>
+    <string name="select_option">Select an option</string>
+    <string name="or">or</string>
+</resources>
